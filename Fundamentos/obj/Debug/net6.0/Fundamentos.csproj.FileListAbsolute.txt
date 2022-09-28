@@ -1,0 +1,15 @@
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\bin\Debug\net6.0\Fundamentos.exe
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\bin\Debug\net6.0\Fundamentos.deps.json
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\bin\Debug\net6.0\Fundamentos.runtimeconfig.json
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\bin\Debug\net6.0\Fundamentos.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\bin\Debug\net6.0\Fundamentos.pdb
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfo.cs
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\refint\Fundamentos.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.pdb
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\Fundamentos.genruntimeconfig.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos\obj\Debug\net6.0\ref\Fundamentos.dll
