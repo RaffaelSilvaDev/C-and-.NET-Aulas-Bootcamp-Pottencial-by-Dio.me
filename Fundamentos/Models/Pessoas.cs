@@ -5,9 +5,11 @@ using System.Threading.Tasks;
 
 namespace Fundamentos.Models
 {
-  public class Pessoa
+  public class Pessoas
   {
+
     public string Nome { get; set; }
+
     public int Idade { get; set; }
     public string NomeRepresentanteLegal { get; set; }
 
