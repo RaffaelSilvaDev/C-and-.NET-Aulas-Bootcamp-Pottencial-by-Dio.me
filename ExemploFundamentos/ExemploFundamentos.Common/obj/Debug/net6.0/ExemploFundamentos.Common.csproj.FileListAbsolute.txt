@@ -1,0 +1,24 @@
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\Fundamentos - Backup\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Users\Tais e Rafael\Desktop\C# and .NET\C-and-.NET-Aulas-Bootcamp-Pottencial-by-Dio.me\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll
