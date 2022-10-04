@@ -1,10 +1,84 @@
 ﻿using ExemploFundamentos.Common.Models;
 
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "Rafael";
-pessoa1.Idade = 37;
-pessoa1.Apresentar();
+//Lista
+
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("RJ");
+
+
+Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+listaString.Add("SC");
+
+Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+listaString.Remove("MG");
+
+Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+
+
+
+// Console.WriteLine("Percorrendo lista com FOR");
+// for (int contador = 0; contador < listaString.Count; contador++)
+// {
+//   Console.WriteLine($"Posição Nº {contador} - {listaString[contador]}");
+// }
+
+// Console.WriteLine("Percorrendo Lista com FOREACH");
+// int contadorForeach = 0;
+// foreach (string item in listaString)
+// {
+//   Console.WriteLine($"Posição Nº {contadorForeach} - {item}");
+//   contadorForeach++;
+// }
+
+
+
+
+//Array
+
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 1;
+
+// int[] arrayInteirosDobrados = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrados, arrayInteiros.Length);
+
+// //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2); //ArgumentOutOfRangeException a capacidad de elemetos do array
+
+// Console.WriteLine("Percorrendo o Array com o FOR");
+// for (int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//   Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");
+// }
+
+
+
+
+
+// Console.WriteLine("Percorrendo o Array com o FOREACH");
+
+// int contadorForeach = 0;
+// foreach (int valor in arrayInteiros) // Foreach sig: para cada, apenas para listas e array
+// {
+//   Console.WriteLine($"Posição Nº {contadorForeach} -{valor}");
+//   contadorForeach++;
+// }
+
+
+// Pessoa pessoa1 = new Pessoa();
+// pessoa1.Nome = "Rafael";
+// pessoa1.Idade = 37;
+// pessoa1.Apresentar();
 
 
 // // //Aula 20
