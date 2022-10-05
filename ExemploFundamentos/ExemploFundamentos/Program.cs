@@ -1,25 +1,47 @@
 ﻿using ExemploFundamentos.Common.Models;
 
 
+// Aula de Comentários
+
+// Instãncia da Classe Pessoa
+Pessoa p = new Pessoa();
+
+/*
+ Atribui o nome e idade para pessoa
+ passando nome rafa
+ e passando a idade
+*/
+p.Nome = "Rafa";
+p.Idade = 37;
+p.NomeRepresentanteLegal = "Taís";
+
+// Faz a pessoa se apresentar
+p.Apresentar();
+
+Calculadoras c = new Calculadoras();
+c.Somar(3, 1);
+c.Subtrair(3, 1);
+
+
 //Lista
 
-List<string> listaString = new List<string>();
+// List<string> listaString = new List<string>();
 
-listaString.Add("SP");
-listaString.Add("BA");
-listaString.Add("MG");
-listaString.Add("RJ");
+// listaString.Add("SP");
+// listaString.Add("BA");
+// listaString.Add("MG");
+// listaString.Add("RJ");
 
 
-Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
+// Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
 
-listaString.Add("SC");
+// listaString.Add("SC");
 
-Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
+// Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
 
-listaString.Remove("MG");
+// listaString.Remove("MG");
 
-Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
+// Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaString.Capacity}");
 
 
 
@@ -37,8 +59,6 @@ Console.WriteLine($"Itens da Lista {listaString.Count} - Capacidade: {listaStrin
 //   Console.WriteLine($"Posição Nº {contadorForeach} - {item}");
 //   contadorForeach++;
 // }
-
-
 
 
 //Array
